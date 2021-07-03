@@ -1,2 +1,2 @@
 # NetflixApp
-Netflix Clone User Interface using SwiftUI.
+Netflix User Interface Clone using SwiftUI.
